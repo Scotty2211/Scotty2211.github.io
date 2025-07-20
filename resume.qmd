@@ -1,89 +1,65 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Scotlyn Creutz's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Scotlyn Creutz
+Analytical, Resourceful, Versatile
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="Scotlynstremebath@Gmail.com">Scotlynstremebath@Gmail.com</a>
+| <a href="www.linkedin.com/in/scotlyn-creutz-">www.linkedin.com/in/scotlyn-creutz-</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Looking for my next challenge
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data-Driven Financial Analysis and Automation
 
 
-### Research interests
+### Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Excel, VBA, Python, SQL, DAX, C, Power BI, Tableau, Data Analysis and Visualization
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2020 - 2025`
+__Brigham Young University-Idaho.__
+- Bachelor's Degree of Science, Business Finance
+- Certificate: Data Science
+- GPA: 3.6/4.0
 
 
 
-## Awards
+## Job History
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`April 2025 - Current`
+__Finance and Marketing Intern__, Thornton, CO
+- Cleaned and prepared financial datasets for integration into modeling and forecasting software, enhancing data accuracy and usability
+- Collaborated with third-party marketing teams to organize and standardize incoming campaign data for analysis and reporting
+- Managed customer databases and coordinated outreach efforts, improving engagement and tracking effectiveness
+- Developed financial forecasts and built data models to support strategic decision-making and answer key business questions
 
 
-## Occupation
+`February 2024 - July 2025`
+__Teacher's Assistant__, Brigham Young University
+Business Analytics, Professional Writing, Spreadsheet Analysis for Business, Business Statistics
+- Applied business statistics and analytics, spreadsheet modeling, and professional writing in academic and real-world scenarios to reinforce technical proficiency
+- Strengthened communication skills by tutoring and mentoring over 20 students per semester, adapting explanations to diverse learning styles
 
-`1600`
-__Royal Mint__, London
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`June 2022 - May 2023`
+__Service Center Agent__, Mountain America Credit Union
+- Surpassed monthly sales and customer satisfaction targets by at least 2%, consistently contributing to team performance goals
+- Developed in-depth knowledge of financial industry operations and products, including a range of investment solutions
+- Recognized for effectively matching financial products to member needs, enhancing customer satisfaction, and retention
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2025 -->
