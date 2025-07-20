@@ -28,35 +28,35 @@ Excel, VBA, Python, SQL, DAX, C, Power BI, Tableau, Data Analysis and Visualizat
 ## Education
 
 `2020 - 2025`
-__Brigham Young University-Idaho.__
-- Bachelor's Degree of Science, Business Finance
-- Certificate: Data Science
-- GPA: 3.6/4.0
+__Brigham Young University-Idaho.__  
+- Bachelor's Degree of Science, Business Finance  
+- Certificate: Data Science  
+- GPA: 3.6/4.0  
 
 
 
 ## Job History
 
 `April 2025 - Current`
-__Finance and Marketing Intern__, Thornton, CO
-- Cleaned and prepared financial datasets for integration into modeling and forecasting software, enhancing data accuracy and usability
-- Collaborated with third-party marketing teams to organize and standardize incoming campaign data for analysis and reporting
-- Managed customer databases and coordinated outreach efforts, improving engagement and tracking effectiveness
-- Developed financial forecasts and built data models to support strategic decision-making and answer key business questions
+__Finance and Marketing Intern__, Thornton, CO  
+- Cleaned and prepared financial datasets for integration into modeling and forecasting software, enhancing data accuracy and usability  
+- Collaborated with third-party marketing teams to organize and standardize incoming campaign data for analysis and reporting  
+- Managed customer databases and coordinated outreach efforts, improving engagement and tracking effectiveness  
+- Developed financial forecasts and built data models to support strategic decision-making and answer key business questions  
 
 
 `February 2024 - July 2025`
-__Teacher's Assistant__, Brigham Young University
-Business Analytics, Professional Writing, Spreadsheet Analysis for Business, Business Statistics
-- Applied business statistics and analytics, spreadsheet modeling, and professional writing in academic and real-world scenarios to reinforce technical proficiency
-- Strengthened communication skills by tutoring and mentoring over 20 students per semester, adapting explanations to diverse learning styles
+__Teacher's Assistant__, Brigham Young University  
+Business Analytics, Professional Writing, Spreadsheet Analysis for Business, Business Statistics  
+- Applied business statistics and analytics, spreadsheet modeling, and professional writing in academic and real-world scenarios to reinforce technical proficiency  
+- Strengthened communication skills by tutoring and mentoring over 20 students per semester, adapting explanations to diverse learning styles  
 
 
 `June 2022 - May 2023`
-__Service Center Agent__, Mountain America Credit Union
-- Surpassed monthly sales and customer satisfaction targets by at least 2%, consistently contributing to team performance goals
-- Developed in-depth knowledge of financial industry operations and products, including a range of investment solutions
-- Recognized for effectively matching financial products to member needs, enhancing customer satisfaction, and retention
+__Service Center Agent__, Mountain America Credit Union  
+- Surpassed monthly sales and customer satisfaction targets by at least 2%, consistently contributing to team performance goals  
+- Developed in-depth knowledge of financial industry operations and products, including a range of investment solutions  
+- Recognized for effectively matching financial products to member needs, enhancing customer satisfaction, and retention  
 
 
 
